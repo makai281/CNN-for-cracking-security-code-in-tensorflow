@@ -1,1 +1,1 @@
-Using CNN for cracking security code in tensorflow
+Using simple CNN for cracking security code in tensorflow
